@@ -3,6 +3,9 @@
 **SGNet-SR** (internally called Surface Residual V2) is the final model in the manuscript.
 It predicts protein-protein binding affinity
 by adding a reliability-gated molecular-surface correction to a frozen ESM2
+model:
+model/real/best_surface_residual_v2.pt: https://drive.google.com/file/d/1IG_XOs18qixmD5IT-SvKnzYEIHjq68ID/view?usp=sharing
+bmodel/est_sequence.pt: https://drive.google.com/file/d/1BEgzF-VqIqlviSkoPXSHPjGY6X58qtrZ/view?usp=sharing
 sequence baseline:
 
 ```text

@@ -4,7 +4,9 @@
 代码仓库统一使用 `SGNet` 名称。它不包含历史 V1/V29 实验，也不包含
 早期 1618/1741 样本、随机五折或 40% identity CV 结果，避免把开发阶段结果混入
 论文协议。
-
+模型下载：
+model/real/best_surface_residual_v2.pt: https://drive.google.com/file/d/1IG_XOs18qixmD5IT-SvKnzYEIHjq68ID/view?usp=sharing
+bmodel/est_sequence.pt: https://drive.google.com/file/d/1BEgzF-VqIqlviSkoPXSHPjGY6X58qtrZ/view?usp=sharing
 ## 一、投稿时应上传什么
 
 建议把整个 `SGNet_github/` 作为独立仓库上传，其中最核心的是：
